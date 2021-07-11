@@ -99,7 +99,7 @@ Support history so far:
 - **Future:** No major updates are currently planned for Spinning Up. In the event it makes sense for us to release an additional update, following what we found in the 6-month review, the next-highest priority features are to focus more on open source RL environments and adding algorithms.
 
 Additionally, as discussed in the blog post, Spinning Up has been integrated into the curriculum for our Scholars_ and Fellows_ programs.
-
+ec r3qr
 
 .. _`introduction`: ../spinningup/rl_intro.html
 .. _`essay`: ../spinningup/spinningup.html
